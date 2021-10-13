@@ -7,7 +7,7 @@ public class Driver : MonoBehaviour
     [SerializeField]
     float steerSpeed = 270f;
     [SerializeField]
-    float moveSpeed = 12f;
+    float moveSpeed = 20f;
     // Start is called before the first frame update
     void Start()
     {
