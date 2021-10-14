@@ -3154,6 +3154,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pickupDelay: 0.3
+  hasPackageColor: {r: 0.046398044, g: 1, b: 0, a: 1}
+  noPackageColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1 &1616615233
 GameObject:
   m_ObjectHideFlags: 0
